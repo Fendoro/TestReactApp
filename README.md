@@ -1,25 +1,18 @@
-# ReduxSimpleStarter
+# Test React App
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Based on course: https://www.udemy.com/react-redux-tutorial/
+
+### Used Technologies
+
+JS6, react, redux, babel, webpack, mocha, chai, jQuery, react test utils, bdd, jsdom
 
 ### Getting Started
 
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+Checkout this repo, install dependencies, then start the webpack process with the following:
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
+> git clone https://github.com/Fendoro/TestReactApp.git
+> cd TestReactApp
 > npm install
 > npm start
 ```
